@@ -1,0 +1,21 @@
+.example {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.example__title {
+    color: #fff;
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.example__button {
+    display: block;
+    margin: 0 auto;
+    font-size: 24px;
+    width: 300px;
+    height: 100px;
+}
